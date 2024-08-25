@@ -1,0 +1,4 @@
+__pycache__
+miniblog/__pycache__
+blog/__pycache__
+db.sqlite3

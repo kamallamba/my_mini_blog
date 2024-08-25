@@ -1,0 +1,8 @@
+django
+djangorestframework
+pillow
+django-database-url 
+gunicorn
+psycopg2
+sqlparse
+whitenoise[brotli]
